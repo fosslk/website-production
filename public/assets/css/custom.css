@@ -1,0 +1,33 @@
+.ms-site-foss-title-lg {
+    font-weight: 600;
+    color: #5da5d5;
+    font-size: 50px;
+}
+
+.ms-site-foss-about-title-lg {
+    font-weight: 450;
+    color: #de585f;
+    font-size: 30px;
+    word-spacing:1px;
+}
+
+.ms-site-foss-about-title2-lg {
+    font-weight: 350;
+    color: #5da5d5;
+    font-size: 20px;
+    word-spacing:1px;
+}
+
+.p-title {
+    margin-top: 0;
+    color: #fff;
+    font-weight: 350;
+    font-size: 18px;
+    margin-bottom: 1rem;
+}
+
+.ms-hero-img-about{
+    background-image:url(../img/campus.jpg);
+    background-size:cover;
+    background-position:center center
+}
